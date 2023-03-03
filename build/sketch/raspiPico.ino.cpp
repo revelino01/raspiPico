@@ -57,6 +57,15 @@ bool sendFlag = false;
 Adafruit_INA219 ina219;
 U8G2_SSD1306_128X64_NONAME_F_HW_I2C u8g2(U8G2_R0, /* reset=*/U8X8_PIN_NONE);
 
+#line 58 "D:\\projects\\ardPorjs\\raspiPico\\raspiPico.ino"
+void setup();
+#line 78 "D:\\projects\\ardPorjs\\raspiPico\\raspiPico.ino"
+void setup1();
+#line 115 "D:\\projects\\ardPorjs\\raspiPico\\raspiPico.ino"
+void loop();
+#line 151 "D:\\projects\\ardPorjs\\raspiPico\\raspiPico.ino"
+void loop1();
+#line 58 "D:\\projects\\ardPorjs\\raspiPico\\raspiPico.ino"
 void setup()
 {
 

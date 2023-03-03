@@ -54,7 +54,7 @@
                 "SERIALUSB_PID=0x000a",
                 "USBD_MAX_POWER_MA=250",
                 "F_CPU=133000000L",
-                "ARDUINO=10814",
+                "ARDUINO=10607",
                 "ARDUINO_RASPBERRY_PI_PICO",
                 "BOARD_NAME=\"RASPBERRY_PI_PICO\"",
                 "ARDUINO_ARCH_RP2040",
